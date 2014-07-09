@@ -1,19 +1,27 @@
 [
   {
-    "repository": "GzRoms-Redux/android_device_samsung_qcom-common",
-    "target_path": "device/samsung/qcom-common"
+    "remote": "gh",
+    "repository": "CyanogenMod/android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "revision": "cm-11.0"
   },
   {
-    "repository": "GzRoms-Redux/android_device_samsung_msm8660-common",
-    "target_path": "device/samsung/msm8660-common"
+    "remote": "gh",
+    "repository": "CyanogenMod/android_device_samsung_msm8660-common",
+    "target_path": "device/samsung/msm8660-common",
+    "revision": "cm-11.0"
   },
   {
-    "repository": "GzRoms-Redux/android_device_samsung_celox-common",
-    "target_path": "device/samsung/celox-common"
+    "remote": "gh",
+    "repository": "CyanogenMod/android_device_samsung_celox-common",
+    "target_path": "device/samsung/celox-common",
+    "revision": "cm-11.0"
   },
   {
-    "repository": "GzRoms-Redux/android_kernel_samsung_msm8660-common",
-    "target_path": "kernel/samsung/msm8660-common"
+    "remote": "gh",
+    "repository": "CyanogenMod/android_kernel_samsung_msm8660-common",
+    "target_path": "kernel/samsung/msm8660-common",
+    "revision": "cm-11.0"
   }
 ]
 
