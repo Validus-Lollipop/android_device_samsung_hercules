@@ -22,6 +22,12 @@
     "repository": "CyanogenMod/android_kernel_samsung_msm8660-common",
     "target_path": "kernel/samsung/msm8660-common",
     "revision": "cm-11.0"
-  }
+  },
+  {
+    "remote": "gh",
+    "repository": "TheMuppets/proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "revision": "cm-11.0"
+  }  
 ]
 
